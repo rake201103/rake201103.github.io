@@ -1,1 +1,1 @@
-<h2>Browse <a href="https://github.com/rake201103/Lab_1/blob/main/index.html">index</a> file </h2>
+<h2>Browse <a href="https://www.google.com">index</a> file </h2>
