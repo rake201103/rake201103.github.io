@@ -1,1 +1,1 @@
-[Click here to visit my about page!](index.md)
+[Click here to visit my about page!](main.md)
