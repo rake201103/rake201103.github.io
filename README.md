@@ -1,1 +1,1 @@
-rake201103.github.io/main.html
+rake201103.github.io/rake201103/Lab_1/main.html
